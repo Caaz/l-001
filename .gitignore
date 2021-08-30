@@ -1,0 +1,4 @@
+# Probably just gonna export from the .aseprite
+*.png
+# So far only aseprite exports this json but keep this in mind for when we need to actually use json
+*.json
